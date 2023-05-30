@@ -1,4 +1,4 @@
-public class PracticeVariables {
+public class Problem_1_Practice_Variables {
 
     public static void main(String[] args) {
         byte aByte = 5;
